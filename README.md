@@ -1,4 +1,4 @@
-# project_phase3
+# MLmodel-Chicago-Car-Crashes
 Flatiron School | Project Phase #3 - Machine Learning
 
 # Chicago Car Crashes Prediction Project
